@@ -1,4 +1,4 @@
-## Hikvision Channel Order v1.0.0
+﻿## Hikvision Channel Order v1.0.0
 
 海康录像机数字通道按表格就位 — 首个公开发布。
 
@@ -16,6 +16,6 @@
 
 ### 体积
 
-- 约 11–12 MB；仅打包 GUI + 核心逻辑，无第三方运行时依赖
+- 约 11.4 MB；仅打包 GUI + 核心逻辑，无第三方运行时依赖
 
-完整说明见仓库 [README](../README.md) 与 [CHANGELOG](../CHANGELOG.md)。
+完整说明见仓库 [README](https://github.com/fig3458/hikvision-channel-order#readme) 与 [CHANGELOG](https://github.com/fig3458/hikvision-channel-order/blob/main/CHANGELOG.md)。
