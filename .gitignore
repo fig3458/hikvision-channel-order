@@ -1,0 +1,21 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# PyInstaller
+build/
+dist/
+*.spec.bak
+*.log
+
+# Local / OS
+.DS_Store
+Thumbs.db
+*.exe
+SHA256SUMS.txt
+
+# Editor
+.vscode/
+.idea/
+*.swp
